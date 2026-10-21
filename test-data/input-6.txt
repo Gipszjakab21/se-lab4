@@ -1,0 +1,3 @@
+GT4500,2,0,1,100
+TORPEDO,SINGLE #hogy a masodlagos jojjon
+TORPEDO,SINGLE
